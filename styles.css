@@ -387,6 +387,7 @@ font-weight: bold;
 .skill{
   display: inline-block;
   margin-top: 12.5px;
+  margin-right: 5px;
   height: 25px;
   width: auto;
   padding-top: 2px;
@@ -477,6 +478,7 @@ margin-right: 120px;
 .interest{
   display: inline-block;
   margin-top: 12.5px;
+  margin-right: 5px;
   height: 25px;
   width: auto;
   padding-top: 2px;
@@ -540,6 +542,11 @@ font-style: italic;
   text-decoration: underline;
 }
 
+#refRIGHT{
+  float: right;
+  margin-top: -35px;
+  margin-right: 20px;
+}
 .refGap{
   margin-top:  12px;
 }
